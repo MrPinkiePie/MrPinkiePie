@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hola, soy Mauricio Aguirre Stornaiuolo! 👋
 
-<!--
-**MrPinkiePie/MrPinkiePie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un estudiante de **Economía** apasionado por la **Ciencia de Datos** y el análisis cuantitativo. Me encanta encontrar patrones en los datos y construir modelos que ayuden a la toma de decisiones.
 
-Here are some ideas to get you started:
+🔭 **Actualmente estoy trabajando en:**
+- Mejorar mis habilidades en **Machine Learning** (Regresión y Clasificación).
+- Proyectos de análisis predictivo con Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Estoy aprendiendo:**
+- Técnicas avanzadas de Feature Engineering.
+- Profundizando en librerías clave de Data Science.
+
+🛠 **Mi Stack Técnico:**
+- **Lenguajes:** Python (Pandas, NumPy, Scikit-learn), SQL.
+- **Intereses:** Ciencia de Datos, Economía, Modelado Predictivo.
+
+📫 **Contáctame:**
+- www.linkedin.com/in/mauriciostornaiuolope
+- mauricioaguirrestor@gmail.com
